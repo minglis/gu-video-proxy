@@ -1,0 +1,9 @@
+*.iws
+*.ipr
+*.iml
+*~
+*.log
+logs/
+*/**/target
+/target
+config.txt
